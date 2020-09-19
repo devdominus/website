@@ -1,25 +1,27 @@
 {
   "files": {
     "main.css": "/static/css/main.5e08b976.chunk.css",
-    "main.js": "/static/js/main.cfecf50d.chunk.js",
-    "main.js.map": "/static/js/main.cfecf50d.chunk.js.map",
+    "main.js": "/static/js/main.25467f76.chunk.js",
+    "main.js.map": "/static/js/main.25467f76.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.35e9da1c.js",
     "runtime-main.js.map": "/static/js/runtime-main.35e9da1c.js.map",
     "static/css/2.e6f51e71.chunk.css": "/static/css/2.e6f51e71.chunk.css",
-    "static/js/2.ed6b85bd.chunk.js": "/static/js/2.ed6b85bd.chunk.js",
-    "static/js/2.ed6b85bd.chunk.js.map": "/static/js/2.ed6b85bd.chunk.js.map",
+    "static/js/2.a9493b70.chunk.js": "/static/js/2.a9493b70.chunk.js",
+    "static/js/2.a9493b70.chunk.js.map": "/static/js/2.a9493b70.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.63b88e70ed25c02727f37e3dbd9d68b5.js": "/precache-manifest.63b88e70ed25c02727f37e3dbd9d68b5.js",
+    "precache-manifest.656089aac93ddcc1c81ffacd3e293858.js": "/precache-manifest.656089aac93ddcc1c81ffacd3e293858.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.e6f51e71.chunk.css.map": "/static/css/2.e6f51e71.chunk.css.map",
     "static/css/main.5e08b976.chunk.css.map": "/static/css/main.5e08b976.chunk.css.map",
-    "static/js/2.ed6b85bd.chunk.js.LICENSE.txt": "/static/js/2.ed6b85bd.chunk.js.LICENSE.txt",
+    "static/js/2.a9493b70.chunk.js.LICENSE.txt": "/static/js/2.a9493b70.chunk.js.LICENSE.txt",
+    "static/media/3mconstructions.png": "/static/media/3mconstructions.38639a6e.png",
     "static/media/ADI.png": "/static/media/ADI.64165ad2.png",
     "static/media/AGS.png": "/static/media/AGS.5b65b79a.png",
     "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.8b6af8e5.ttf",
     "static/media/devdominus.png": "/static/media/devdominus.f7c7cffb.png",
     "static/media/fionainfrastructure.png": "/static/media/fionainfrastructure.d0835e9e.png",
     "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/gvacademy.png": "/static/media/gvacademy.0e35a472.png",
     "static/media/osh.png": "/static/media/osh.a9a98302.png",
     "static/media/sejen.png": "/static/media/sejen.01d789a6.png",
     "static/media/sibidharan.png": "/static/media/sibidharan.a7ff10fd.png",
@@ -28,8 +30,8 @@
   "entrypoints": [
     "static/js/runtime-main.35e9da1c.js",
     "static/css/2.e6f51e71.chunk.css",
-    "static/js/2.ed6b85bd.chunk.js",
+    "static/js/2.a9493b70.chunk.js",
     "static/css/main.5e08b976.chunk.css",
-    "static/js/main.cfecf50d.chunk.js"
+    "static/js/main.25467f76.chunk.js"
   ]
 }
