@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.5e08b976.chunk.css",
-    "main.js": "/static/js/main.25467f76.chunk.js",
-    "main.js.map": "/static/js/main.25467f76.chunk.js.map",
+    "main.js": "/static/js/main.68cceb7a.chunk.js",
+    "main.js.map": "/static/js/main.68cceb7a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.35e9da1c.js",
     "runtime-main.js.map": "/static/js/runtime-main.35e9da1c.js.map",
     "static/css/2.e6f51e71.chunk.css": "/static/css/2.e6f51e71.chunk.css",
-    "static/js/2.a9493b70.chunk.js": "/static/js/2.a9493b70.chunk.js",
-    "static/js/2.a9493b70.chunk.js.map": "/static/js/2.a9493b70.chunk.js.map",
+    "static/js/2.62912c57.chunk.js": "/static/js/2.62912c57.chunk.js",
+    "static/js/2.62912c57.chunk.js.map": "/static/js/2.62912c57.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.656089aac93ddcc1c81ffacd3e293858.js": "/precache-manifest.656089aac93ddcc1c81ffacd3e293858.js",
+    "precache-manifest.eae2b6cc62ba60488e3a88263f0350f7.js": "/precache-manifest.eae2b6cc62ba60488e3a88263f0350f7.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.e6f51e71.chunk.css.map": "/static/css/2.e6f51e71.chunk.css.map",
     "static/css/main.5e08b976.chunk.css.map": "/static/css/main.5e08b976.chunk.css.map",
-    "static/js/2.a9493b70.chunk.js.LICENSE.txt": "/static/js/2.a9493b70.chunk.js.LICENSE.txt",
+    "static/js/2.62912c57.chunk.js.LICENSE.txt": "/static/js/2.62912c57.chunk.js.LICENSE.txt",
     "static/media/3mconstructions.png": "/static/media/3mconstructions.38639a6e.png",
     "static/media/ADI.png": "/static/media/ADI.64165ad2.png",
     "static/media/AGS.png": "/static/media/AGS.5b65b79a.png",
@@ -25,13 +25,14 @@
     "static/media/osh.png": "/static/media/osh.a9a98302.png",
     "static/media/sejen.png": "/static/media/sejen.01d789a6.png",
     "static/media/sibidharan.png": "/static/media/sibidharan.a7ff10fd.png",
+    "static/media/yogi.png": "/static/media/yogi.048f859b.png",
     "static/media/zionrc.png": "/static/media/zionrc.73bed3f1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.35e9da1c.js",
     "static/css/2.e6f51e71.chunk.css",
-    "static/js/2.a9493b70.chunk.js",
+    "static/js/2.62912c57.chunk.js",
     "static/css/main.5e08b976.chunk.css",
-    "static/js/main.25467f76.chunk.js"
+    "static/js/main.68cceb7a.chunk.js"
   ]
 }
