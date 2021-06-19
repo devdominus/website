@@ -13,7 +13,7 @@ function Contact() {
                 </div>
                 <div className="col2">
                 <div className="contact-title">Call / Whatsapp Us</div>
-                <div className="contact-body">+91 8681835595<br/>+91 6383602632</div>
+                <div className="contact-body">+91 8681835595<br/>+91 6383602632<br/>+60 173436678</div>
                 </div>
                 </div>
                 <div className="contact-details">
@@ -34,14 +34,16 @@ function Contact() {
                 <div className="contact-body">contact@devdominus.in</div>
                 </div>
                 </div>
-                <div className="follow-parent">
+                <div className="contact-details">
+                <div className="col2">
                 <div className="contact-title">Follow Us</div>
                 <div className="follow-icon-container">
-                <a href="https://www.instagram.com/devdominus/" target="_blank" ><i className="fa fa-instagram icon" aria-hidden="true"></i></a>
-                <a href="https://twitter.com/dominus_dev" target="_blank" ><i className="fa fa-twitter icon" aria-hidden="true"></i></a>
-                <a href="https://www.facebook.com/dev.dominus" target="_blank" ><i className="fa fa-facebook-square icon" aria-hidden="true"></i></a>
+                <a href="https://www.instagram.com/devdominus/" target="_blank" rel="noopener noreferrer" ><i className="fa fa-instagram icon" aria-hidden="true"></i> </a>
+                <a href="https://twitter.com/dominus_dev" target="_blank" rel="noopener noreferrer"><i className="fa fa-twitter icon" aria-hidden="true"></i> </a>
+                <a href="https://www.facebook.com/dev.dominus" target="_blank" rel="noopener noreferrer"><i className="fa fa-facebook-square icon" aria-hidden="true"></i> </a>
                 </div>
-                </div>  
+                </div>
+                </div> 
             </div>
         </div>
     )

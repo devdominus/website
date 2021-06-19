@@ -2,30 +2,34 @@
   "name": "first",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://devdominus.github.io/website/",
+  "homepage": "http://devdominus.in",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "font-awesome": "^4.7.0",
-    "gh-pages": "^3.1.0",
     "node-sass": "^4.14.1",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-particles-js": "^3.3.0",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-helmet": "^6.1.0",
+    "react-particles-js": "^3.4.1",
+    "react-redux": "^7.2.2",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.1",
+    "react-router-redux": "^4.0.8",
+    "react-router-sitemap": "^1.2.0",
+    "react-scripts": "^3.4.4",
     "react-transition-group": "^4.4.1",
-    "three": "^0.118.3",
-    "vanta": "^0.5.16"
+    "three": "^0.126.0",
+    "vanta": "^0.5.21"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy":"npm run-script build",
-    "deploy":"gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "sitemap": "babel-node H:/DevDominus/first/first/src/sitemap-generator.js"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -41,5 +45,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "gh-pages": "^3.1.0"
   }
 }

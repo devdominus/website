@@ -2,12 +2,16 @@ import React from 'react'
 import '../App.css'
 import Particles from 'react-particles-js'
 import Logo from '../Assets/LogoLow.png'
+import {Helmet} from 'react-helmet'
 
 function Home() {
 
     return (
       <div className="page">
-        
+        <Helmet>
+        <title>Dev Dominus Digital Solutions</title>
+        <meta name="description" content="We Build Websites, Perform SEO setup and provide all forms of digital design" />
+        </Helmet>
         <Particles className="background"
             params={{
               "particles": {
@@ -55,8 +59,8 @@ function Home() {
                   "enable": true,
                   "distance": 160,
                   "color": "#ff8f00",
-                  "opacity": 0.6974842464765024,
-                  "width": 0.8017060304327615
+                  "opacity": 0.69,
+                  "width": 0.80,
                 },
                 "move": {
                   "enable": true,
@@ -112,7 +116,8 @@ function Home() {
                   }
                 }
               },
-              "retina_detect": true
+              retina_detect:false
+              
             }}/>
             <div className="home-parent">
             <div className="span-middle">
