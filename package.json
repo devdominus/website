@@ -19,7 +19,7 @@
     "react-router-sitemap": "^1.2.0",
     "react-scripts": "^3.4.4",
     "react-transition-group": "^4.4.1",
-    "three": "^0.126.0",
+    "three": "^0.137.0",
     "vanta": "^0.5.21"
   },
   "scripts": {
